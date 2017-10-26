@@ -1,0 +1,43 @@
+.logo {
+    height: 60px;
+}
+.franchise {
+    margin-top: 100px;
+    font-size: 65px;
+    color: #0040ff;
+}
+.catch {
+    margin-top: 25px;
+    padding-left: 10px;
+}
+.initiate {
+    margin-top: 100px;
+    padding-left: 10px;
+}
+.staff {
+    height: 200px;
+    clear: left;
+    border-radius: 30px;
+    margin: 10px;
+    box-shadow: 2px 1px 2px .5px;
+}
+.split {
+    border-left: 1px solid #000;
+}
+.column {
+    height: 120px;
+    width: 33%;
+}
+.three-step {
+    height: 70px;
+    margin: 0 auto;
+}
+.container:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.col {
+    margin: 0 auto;
+    width: 75px;
+}

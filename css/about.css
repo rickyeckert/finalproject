@@ -1,0 +1,31 @@
+.initiate {
+    margin-top: 15px;
+}
+.about {
+    margin-top: 20px;
+    text-indent: 15px;
+}
+.abt {
+    width: 48%;
+}
+.list {
+    margin-left: 15px;
+}
+.sub-list {
+    margin-left: 15px;
+}
+.warning:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.history {
+    font-size: 20px;
+    text-indent: 30px;
+    margin-top: 30px;
+}
+.hist-img {
+    width: 48%;
+    border-radius: 30px;
+    box-shadow: 2px 1px 2px .5px;
+}
